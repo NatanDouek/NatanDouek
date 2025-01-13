@@ -11,7 +11,7 @@
 ## So what am I leaning now?
   I’m currently learning to code in my free time.<br/>
   I always had a dream of making a game but for now, baby steps...<br/>
-  Follow my progress on [roadmap.sh](roadmap.sh):<br/>
+  Follow my progress on [roadmap.sh](https://roadmap.sh):<br/>
   [![roadmap.sh](https://roadmap.sh/card/wide/677d1da270129741a8f7377a?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 
 
